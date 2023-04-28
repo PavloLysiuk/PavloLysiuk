@@ -45,6 +45,8 @@
 ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
+![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 <!-- ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab) -->
 <!-- ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman) -->
 
