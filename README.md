@@ -1,11 +1,11 @@
 - 🔭 I’m currently working on new project
+- 💬 Ask me about anything you want!
+- 📫 How to reach me: pavel.lysiuk@gmail.com
+- ⚡ Fun fact: I really love coding!
+<!-- - 😄 Pronouns: ...  -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: pavel.lysiuk@gmail.com
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I'm really love coding!
 
 ### My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pullya#6947) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavlo-lysiuk-150445a1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21080328) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PavloLysiuk)
