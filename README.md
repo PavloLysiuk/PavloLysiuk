@@ -27,7 +27,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</br></br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%photoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
-![Affinity Designer](https://img.shields.io/badge/affinity%desginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
+![Affinity Designer](https://img.shields.io/badge/affinity-desginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
 ![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch&logoColor=FFB387)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a.svg?style=for-the-badge&logo=Trello&logoColor=%23026AA7)
