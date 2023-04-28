@@ -57,4 +57,4 @@
 <!-- ![](https://github-profile-trophy.vercel.app/?username=PavloLysiuk&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=PavloLysiuk&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=PavloLysiuk&icon=0&color=0)](https://visitcount.itsvg.in)
