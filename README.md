@@ -17,14 +17,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
-![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
+![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=red)
-![Webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
+![Webpack](https://img.shields.io/badge/WebPack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%237289DA)
-![Netlify](https://img.shields.io/badge/netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</br></br>
+![Netlify](https://img.shields.io/badge/Netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</br></br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
@@ -32,7 +32,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a.svg?style=for-the-badge&logo=Trello&logoColor=%23026AA7)</br></br>
 ![ProTools](https://img.shields.io/badge/ProTools-%2320232a.svg?style=for-the-badge&logo=ProTools&logoColor=%237289DA)
-![S1](https://img.shields.io/badge/studio%20one-%2320232a.svg?style=for-the-badge&logo=s1&logoColor=%237289DA)
+![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=s1&logoColor=%237289DA)
 
 ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
