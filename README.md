@@ -7,13 +7,13 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-### My Socials:
+## My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=%237289DA)](https://discord.gg/Pullya#6947)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%2320232a.svg?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/21080328)
 [![Codepen](https://img.shields.io/badge/Codepen-%2320232a.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PavloLysiuk)
 
-### Tech Stack:
+## Tech Stack:
 ##### Developement
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
@@ -40,7 +40,7 @@
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical&logoColor=white)
 
-### Mostly uses:
+## Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
@@ -50,7 +50,7 @@
 <!-- ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab) -->
 <!-- ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman) -->
 
-### GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)
 
