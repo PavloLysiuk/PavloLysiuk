@@ -25,12 +25,12 @@
 ![Webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%237289DA)
 ![Netlify](https://img.shields.io/badge/netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</br></br>
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
+![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
+![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch&logoColor=FFB387)
+![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=%2320232a)
+![Trello](https://img.shields.io/badge/Trello-%2320232a.svg?style=for-the-badge&logo=Trello&logoColor=%23026AA7)
 
 ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
