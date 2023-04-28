@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=red)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%237289DA.svg?style=for-the-badge&logo=vite&logoColor=white)
