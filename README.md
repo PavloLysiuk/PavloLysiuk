@@ -32,8 +32,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a.svg?style=for-the-badge&logo=Trello&logoColor=%23026AA7)</br></br>
 ![ProTools](https://img.shields.io/badge/ProTools-%2320232a.svg?style=for-the-badge&logo=ProTools&logoColor=%237289DA)
-![Studio One](https://img.shields.io/badge/Stuudio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%237289DA)
-![Logic X](https://img.shields.io/badge/Logic%20X-%2320232a.svg?style=for-the-badge&logo=LogicX&logoColor=%237289DA)
+![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%237289DA)
+![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical&logoColor=%237289DA)
 
 ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
