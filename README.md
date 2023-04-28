@@ -9,8 +9,8 @@
 
 ### My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pullya#6947)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21080328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21080328)
 [![Codepen](https://img.shields.io/badge/Codepen-%2320232a.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PavloLysiuk)
 
 ### Tech Stack:
