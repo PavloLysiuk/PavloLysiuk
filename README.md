@@ -26,7 +26,7 @@
 <!-- ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman) -->
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=PavloLysiuk&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
