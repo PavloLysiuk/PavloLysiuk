@@ -22,8 +22,8 @@
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
 ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=red)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%237289DA.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
+![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%237289DA)
 ![Netlify](https://img.shields.io/badge/netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</br></br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
