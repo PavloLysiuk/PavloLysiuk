@@ -33,10 +33,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%2320232a.svg?style=for-the-badge&logo=Trello&logoColor=%23026AA7)
 
 ### Mostly uses:
-![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 <!-- ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab) -->
 <!-- ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman) -->
 
