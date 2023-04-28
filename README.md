@@ -1,4 +1,4 @@
-![github-profile-header](https://raw.githubusercontent.com/Solomon-IT-Dev/Solomon-IT-Dev/main/github-profile-header.png)
+![github-profile-header](https://github.com/PavloLysiuk/PavloLysiuk/blob/main/git-hub-cover.jpg)
 
 - 🔭 I’m currently working on super secret project
 - 💬 Ask me about anything you want!
