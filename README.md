@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on new project
+- 🔭 I’m currently working on super secret project
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: pavel.lysiuk@gmail.com
 - ⚡ Fun fact: I really love coding!
