@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!-- ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab) -->
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!-- ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab) -->
 <!-- ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman) -->
 
 ### GitHub Stats:
