@@ -33,7 +33,7 @@
 ![FireBase](https://img.shields.io/badge/FireBase-%2320232a.svg?style=for-the-badge&logo=firebase)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm)
 ![Webpack](https://img.shields.io/badge/WebPack-%2320232a.svg?style=for-the-badge&logo=webpack)
-![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%237289DA)
+![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite)
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
