@@ -42,24 +42,24 @@
 ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=0272b6)</br></br>
 ##### Graphic/UIUX Design
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
-![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
+![figma](https://img.shields.io/badge/figma-%2320232a?style=for-the-badge&logo=figma)
 ![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch)
 </br></br>
 ##### Music Production
-![ProTools](https://img.shields.io/badge/ProTools-%2320232a.svg?style=for-the-badge&logo=ProTools)
-![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
-![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical)
+![ProTools](https://img.shields.io/badge/ProTools-%2320232a?style=for-the-badge&logo=ProTools)
+![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
+![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a?style=for-the-badge&logo=canonical)
 
 ## Mostly uses:
-![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
-![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
-![vscode](https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
-![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator)
-![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
+![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
+![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![figma](https://img.shields.io/badge/figma-%2320232a?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
+![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
