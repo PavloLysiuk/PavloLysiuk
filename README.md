@@ -31,6 +31,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=red)
 ![Webpack](https://img.shields.io/badge/WebPack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
+![Mongo DB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
 ![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%237289DA)
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
