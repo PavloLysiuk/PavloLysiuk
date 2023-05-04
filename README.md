@@ -11,7 +11,7 @@
 
 ## My Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram)](https://t.me/pullmaster)
-[![Slack](https://img.shields.io/badge/Slack-%2320232a?style=for-the-badge&logo=slack)](https://pavlolysiuk.slack.com/team/U055K6P5Z4J)
+[![Slack](https://img.shields.io/badge/Slack-%2320232a?style=for-the-badge&logo=slack&logoColor=%23ecb22f)](https://pavlolysiuk.slack.com/team/U055K6P5Z4J)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a?style=for-the-badge&logo=discord)](https://discord.gg/Pullya#6947)
 [![Facebook](https://img.shields.io/badge/Facebook-%2320232a?style=for-the-badge&logo=facebook)](https://www.facebook.com/pavel.lysiuk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
@@ -37,10 +37,10 @@
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
 ![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
-![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
-![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=0272b6)</br></br>
+![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6)</br></br>
 ##### Graphic/UIUX Design
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
@@ -56,7 +56,7 @@
 ## Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
-![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
 ![figma](https://img.shields.io/badge/figma-%2320232a?style=for-the-badge&logo=figma)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
