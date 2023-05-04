@@ -41,7 +41,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6)
-##### Graphic/UIUX Design
+##### Graphic & UI/UX Design
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
