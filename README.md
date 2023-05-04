@@ -36,6 +36,7 @@
 ![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite)
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
+![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a.svg?style=for-the-badge&logo=netlify)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion)
@@ -53,14 +54,12 @@
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical)
 
 ## Mostly uses:
-![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
-![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
-![postman](https://img.shields.io/badge/postman-%2320232a?style=for-the-badge&logo=postman)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
