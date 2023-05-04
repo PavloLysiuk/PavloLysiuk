@@ -10,7 +10,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 ## My Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram&logoColor=%23229dd8)](https://t.me/pullmaster)
+[![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram)](https://t.me/pullmaster)
 [![Slack](https://img.shields.io/badge/Slack-%2320232a?style=for-the-badge&logo=slack&logoColor=%23ecb22f)](https://pavlolysiuk.slack.com/team/U055K6P5Z4J)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a?style=for-the-badge&logo=discord&logoColor=%237289DA)](https://discord.gg/Pullya#6947)
 [![Facebook](https://img.shields.io/badge/Facebook-%2320232a?style=for-the-badge&logo=facebook&logoColor=%230088ff)](https://www.facebook.com/pavel.lysiuk/)
