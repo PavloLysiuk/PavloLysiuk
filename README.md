@@ -44,7 +44,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
-![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma)
 ![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch&logoColor=FFB387)
 </br></br>
 ##### Music Production
