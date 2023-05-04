@@ -41,7 +41,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a.svg?style=for-the-badge&logo=Trello)</br></br>
 ##### Graphic/UIUX Design
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a.svg?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
 ![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma)
