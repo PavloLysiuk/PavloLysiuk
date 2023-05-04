@@ -50,7 +50,7 @@
 ##### Music Production
 ![ProTools](https://img.shields.io/badge/ProTools-%2320232a.svg?style=for-the-badge&logo=ProTools)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
-![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical&logoColor=white)
+![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical)
 
 ## Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
