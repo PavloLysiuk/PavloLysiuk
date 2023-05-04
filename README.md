@@ -8,7 +8,7 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-## My Socials:
+### My Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram)](https://t.me/pullmaster)
 [![Slack](https://img.shields.io/badge/Slack-%2320232a?style=for-the-badge&logo=slack&logoColor=%23ecb22f)](https://pavlolysiuk.slack.com/team/U055K6P5Z4J)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a?style=for-the-badge&logo=discord)](https://discord.gg/Pullya#6947)
@@ -18,7 +18,7 @@
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%2320232a?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/21080328) -->
 <!-- [![Viber](https://img.shields.io/badge/Viber-%2320232a?style=for-the-badge&logo=viber)](https://discord.gg/Pullya#6947) -->
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-%2320232a?style=for-the-badge&logo=codepen)](https://codepen.io/PavloLysiuk) -->
-## Tech Stack:
+### Tech Stack:
 ##### Developement
 [![HTML5](https://img.shields.io/badge/html5-%2320232a?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%2320232a?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -52,7 +52,7 @@
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a?style=for-the-badge&logo=canonical)
 
-<!-- ## Mostly uses:
+<!-- ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
@@ -60,7 +60,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5) -->
 
-<!-- ## GitHub Stats:
+<!-- ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false) -->
 
