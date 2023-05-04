@@ -30,7 +30,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%23593d88)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
-![FireBase](https://img.shields.io/badge/FireBase-%2320232a.svg?style=for-the-badge&logo=mfirebase&logoColor=%23FFCA28)
+![FireBase](https://img.shields.io/badge/FireBase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=red)
 ![Webpack](https://img.shields.io/badge/WebPack-%2320232a.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Vite](https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%237289DA)
