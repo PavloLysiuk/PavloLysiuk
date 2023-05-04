@@ -59,12 +59,12 @@
 ![figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
-![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab)
-![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman)
+![gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
+![postman](https://img.shields.io/badge/postman-%2320232a?style=for-the-badge&logo=postman)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=PavloLysiuk&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-profile-trophy.vercel.app/?username=PavloLysiuk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=PavloLysiuk&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=PavloLysiuk&theme=onedark&no-frame=true&no-bg=true&margin-w=4) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=PavloLysiuk&icon=0&color=0)](https://visitcount.itsvg.in) -->
