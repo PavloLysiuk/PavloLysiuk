@@ -48,7 +48,7 @@
 ![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch)
 </br></br>
 ##### Music Production
-![ProTools](https://img.shields.io/badge/ProTools-%2320232a.svg?style=for-the-badge&logo=ProTools&logoColor=%237289DA)
+![ProTools](https://img.shields.io/badge/ProTools-%2320232a.svg?style=for-the-badge&logo=ProTools)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a.svg?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a.svg?style=for-the-badge&logo=canonical&logoColor=white)
 
