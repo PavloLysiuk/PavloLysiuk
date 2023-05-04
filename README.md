@@ -16,8 +16,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%2320232a?style=for-the-badge&logo=facebook)](https://www.facebook.com/pavel.lysiuk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
 [![Instagram](https://img.shields.io/badge/Instagram-%2320232a?style=for-the-badge&logo=instagram)](https://www.instagram.com/pullmaster/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%2320232a?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/21080328)
-[![Viber](https://img.shields.io/badge/Viber-%2320232a?style=for-the-badge&logo=viber)](https://discord.gg/Pullya#6947)
+<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%2320232a?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/21080328) -->
+<!-- [![Viber](https://img.shields.io/badge/Viber-%2320232a?style=for-the-badge&logo=viber)](https://discord.gg/Pullya#6947) -->
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-%2320232a?style=for-the-badge&logo=codepen)](https://codepen.io/PavloLysiuk) -->
 
 ## Tech Stack:
