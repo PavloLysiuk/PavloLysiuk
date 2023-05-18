@@ -36,7 +36,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm)
 ![Webpack](https://img.shields.io/badge/WebPack-%2320232a?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/Vite-%2320232a?style=for-the-badge&logo=vite)
-![Parcel](https://img.shields.io/badge/Parcel-%2320232a?style=for-the-badge&logo=fropbbox)
+![Parcel](https://img.shields.io/badge/Parcel-%2320232a?style=for-the-badge&logo=dropbbox)
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
 ![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
