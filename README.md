@@ -1,6 +1,6 @@
 ![github-profile-header](https://github.com/PavloLysiuk/PavloLysiuk/blob/main/git-hub-cover_.jpg)
 
-- 🔭 I’m currently working on super secret project!
+- 🔭 I’m currently working on a super secret project!
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: pavel.lysiuk@gmail.com
 - ⚡ Fun fact: I really love coding!
@@ -19,7 +19,7 @@
 <!-- [![Viber](https://img.shields.io/badge/Viber-%2320232a?style=for-the-badge&logo=viber)](https://discord.gg/Pullya#6947) -->
 <!-- [![Codepen](https://img.shields.io/badge/Codepen-%2320232a?style=for-the-badge&logo=codepen)](https://codepen.io/PavloLysiuk) -->
 ### Tech Stack:
-##### Developement
+##### Development
 [![HTML5](https://img.shields.io/badge/html5-%2320232a?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%2320232a?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![SASS](https://img.shields.io/badge/SASS-%2320232a?style=for-the-badge&logo=SASS)
@@ -44,7 +44,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6)
-![Miro](https://img.shields.io/badge/Miro-%2320232a?style=for-the-badge&logo=miro&logoColor=%23f7ca2d)
+![Miro](https://img.shields.io/badge/Miro-%2320232a?style=for-the-badge&logo=miro)
 ##### Graphic & UI/UX Design
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
