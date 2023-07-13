@@ -30,6 +30,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=%23593d88)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js)
+![Postman](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=postman)
 ![MateriaUI](https://img.shields.io/badge/Material%20UI-%2320232a?style=for-the-badge&logo=mui)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
 ![FireBase](https://img.shields.io/badge/FireBase-%2320232a?style=for-the-badge&logo=firebase)
