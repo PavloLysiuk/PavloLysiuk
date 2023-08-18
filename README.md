@@ -42,6 +42,7 @@
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
 ![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%2320232a?style=for-the-badge&logo=butbucket)
 ![vscode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify)
 ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
