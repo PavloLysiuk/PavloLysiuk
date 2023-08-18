@@ -47,7 +47,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6)
 ![Miro](https://img.shields.io/badge/Miro-%2320232a?style=for-the-badge&logo=miro&logoColor=%23f7ca2d)
-![Jira](https://img.shields.io/badge/Jira-%2320232a?style=for-the-badge&logo=jira)
+![Jira](https://img.shields.io/badge/Jira-%2320232a?style=for-the-badge&logo=jira&logoColor=%230052CC)
 ##### Graphic & UI/UX Design
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
