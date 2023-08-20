@@ -31,7 +31,7 @@
 ![Styled components](https://img.shields.io/badge/styled%20components-%2320232a?style=for-the-badge&logo=styledcomponents)
 ![MateriaUI](https://img.shields.io/badge/Material%20UI-%2320232a?style=for-the-badge&logo=mui)
 ![RadixUI](https://img.shields.io/badge/Radix%20UI-%2320232a?style=for-the-badge&logo=radixui&logoColor=%23ffffff)
-![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=%23764ABC)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm)
 ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman)
