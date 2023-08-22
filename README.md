@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a super secret project!
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: pavel.lysiuk@gmail.com
-- ⚡ Fun fact: I really love coding!
+- ⚡ Fun fact: I really love coding!!!
 <!-- - 😄 Pronouns: ...  -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
