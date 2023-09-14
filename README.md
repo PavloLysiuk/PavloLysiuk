@@ -34,6 +34,7 @@
 ![Eleventy](https://img.shields.io/badge/eleventy-%2320232a?style=for-the-badge&logo=eleventy)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=%23764ABC)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js)
+![Bun](https://img.shields.io/badge/Bun-%2320232a?style=for-the-badge&logo=bun)
 ![ExpressJS](https://img.shields.io/badge/express.js-%2320232a?style=for-the-badge&logo=express)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm)
 ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman)
