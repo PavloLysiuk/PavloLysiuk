@@ -30,7 +30,6 @@
 ![Styled components](https://img.shields.io/badge/styled%20components-%2320232a?style=for-the-badge&logo=styledcomponents)
 ![MateriaUI](https://img.shields.io/badge/Material%20UI-%2320232a?style=for-the-badge&logo=mui)
 ![RadixUI](https://img.shields.io/badge/Radix%20UI-%2320232a?style=for-the-badge&logo=radixui&logoColor=%23ffffff)
-![Eleventy](https://img.shields.io/badge/eleventy-%2320232a?style=for-the-badge&logo=eleventy)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=%23764ABC)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js)
 ![Bun](https://img.shields.io/badge/Bun-%2320232a?style=for-the-badge&logo=bun)
@@ -65,6 +64,7 @@
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a?style=for-the-badge&logo=canonical)
 <!-- ![LESS](https://img.shields.io/badge/Less-%2320232a?style=for-the-badge&logo=less&logoColor=%2331a9ff) -->
+<!-- ![Eleventy](https://img.shields.io/badge/eleventy-%2320232a?style=for-the-badge&logo=eleventy) -->
 
 <!-- ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
