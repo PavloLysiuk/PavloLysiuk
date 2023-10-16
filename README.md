@@ -23,7 +23,6 @@
 [![HTML5](https://img.shields.io/badge/html5-%2320232a?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%2320232a?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![SASS](https://img.shields.io/badge/SASS-%2320232a?style=for-the-badge&logo=SASS)
-![LESS](https://img.shields.io/badge/Less-%2320232a?style=for-the-badge&logo=less&logoColor=%2331a9ff)
 ![TailWind](https://img.shields.io/badge/TailWind-%2320232a?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript)
@@ -65,6 +64,7 @@
 ![ProTools](https://img.shields.io/badge/ProTools-%2320232a?style=for-the-badge&logo=ProTools)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a?style=for-the-badge&logo=canonical)
+<!-- ![LESS](https://img.shields.io/badge/Less-%2320232a?style=for-the-badge&logo=less&logoColor=%2331a9ff) -->
 
 <!-- ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
