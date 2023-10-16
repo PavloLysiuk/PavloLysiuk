@@ -11,7 +11,6 @@
 ### My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
 [![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram)](https://t.me/pullmaster)
-
 [![Slack](https://img.shields.io/badge/Slack-%2320232a?style=for-the-badge&logo=slack&logoColor=%23ecb22f)](https://pavlolysiuk.slack.com/team/U055K6P5Z4J)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a?style=for-the-badge&logo=discord)](https://discord.gg/Pullya#6947)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%2320232a?style=for-the-badge&logo=instagram)](https://www.instagram.com/pullmaster/) -->
