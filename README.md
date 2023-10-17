@@ -48,7 +48,6 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%2320232a?style=for-the-badge&logo=webstorm)
 ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify)
-![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6)
 ![Miro](https://img.shields.io/badge/Miro-%2320232a?style=for-the-badge&logo=miro&logoColor=%23f7ca2d)
 ![Jira](https://img.shields.io/badge/Jira-%2320232a?style=for-the-badge&logo=jira&logoColor=%230052CC)
@@ -65,6 +64,7 @@
 ![Logic Pro X](https://img.shields.io/badge/Logic%20Pro%20X-%2320232a?style=for-the-badge&logo=canonical)
 <!-- ![LESS](https://img.shields.io/badge/Less-%2320232a?style=for-the-badge&logo=less&logoColor=%2331a9ff) -->
 <!-- ![Eleventy](https://img.shields.io/badge/eleventy-%2320232a?style=for-the-badge&logo=eleventy) -->
+<!-- ![Notion](https://img.shields.io/badge/Notion-%2320232a?style=for-the-badge&logo=notion) -->
 
 <!-- ### Mostly uses:
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
