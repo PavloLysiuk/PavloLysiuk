@@ -54,10 +54,10 @@
 ##### Graphic & UI/UX Design
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE)
-![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%2320232a?style=for-the-badge&logo=affinityphoto&logoColor=%231B72BE)
 ![figma](https://img.shields.io/badge/figma-%2320232a?style=for-the-badge&logo=figma)
-![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch)
+<!-- ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%2320232a?style=for-the-badge&logo=affinity-designer&logoColor=%231B72BE) -->
+<!-- ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%2320232a?style=for-the-badge&logo=affinityphoto&logoColor=%231B72BE) -->
+<!-- ![Sketch](https://img.shields.io/badge/Sketch-%2320232a?style=for-the-badge&logo=sketch) -->
 ##### Music Production
 ![ProTools](https://img.shields.io/badge/ProTools-%2320232a?style=for-the-badge&logo=ProTools)
 ![Studio One](https://img.shields.io/badge/Studio%20One-%2320232a?style=for-the-badge&logo=audiomack&logoColor=%230077B5)
