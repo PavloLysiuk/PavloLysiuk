@@ -47,10 +47,10 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%2320232a?style=for-the-badge&logo=bitbucket&logoColor=%230052CC)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%2320232a?style=for-the-badge&logo=webstorm)
-![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify)
+<!-- ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify) -->
 <!-- ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6) -->
 <!-- ![Miro](https://img.shields.io/badge/Miro-%2320232a?style=for-the-badge&logo=miro&logoColor=%23f7ca2d) -->
-![Jira](https://img.shields.io/badge/Jira-%2320232a?style=for-the-badge&logo=jira&logoColor=%230052CC)
+<!-- ![Jira](https://img.shields.io/badge/Jira-%2320232a?style=for-the-badge&logo=jira&logoColor=%230052CC) -->
 ##### Graphic & UI/UX Design
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%2320232a?style=for-the-badge&logo=adobeillustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop)
