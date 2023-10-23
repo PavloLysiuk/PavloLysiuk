@@ -1,6 +1,6 @@
 ![github-profile-header](https://github.com/PavloLysiuk/PavloLysiuk/blob/main/git-hub-cover_.jpg)
 
-📫 How to reach me: pavel.lysiuk@gmail.com
+📫 How to reach me --> pavel.lysiuk@gmail.com
 <!-- - 🔭 I’m currently working on a super secret project! -->
 <!-- - 💬 Ask me about anything you want! -->
 <!-- - ⚡ Fun fact: I really love coding! -->
