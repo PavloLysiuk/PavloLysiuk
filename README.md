@@ -1,6 +1,6 @@
 ![github-profile-header](https://github.com/PavloLysiuk/PavloLysiuk/blob/main/git-hub-cover_.jpg)
 
-📫 How to reach me --> pavel.lysiuk@gmail.com
+<!-- 📫 How to reach me --> pavel.lysiuk@gmail.com -->
 <!-- - 🔭 I’m currently working on a super secret project! -->
 <!-- - 💬 Ask me about anything you want! -->
 <!-- - ⚡ Fun fact: I really love coding! -->
@@ -8,9 +8,9 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-### My Socials:
+### Contacts:
 [![Gmail](https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=%230077B5)](mailto:pavel.lysiuk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a?style=for-the-badge&logo=linkedin&logoColor=%230077B5)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a?style=for-the-badge&logo=linkedin&logoColor=%23EA4335)](https://linkedin.com/in/pavlo-lysiuk-150445a1)
 [![Telegram](https://img.shields.io/badge/Telegram-%2320232a?style=for-the-badge&logo=telegram)](https://t.me/pullmaster)
 [![Slack](https://img.shields.io/badge/Slack-%2320232a?style=for-the-badge&logo=slack&logoColor=%23ecb22f)](https://pavlolysiuk.slack.com/team/U055K6P5Z4J)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a?style=for-the-badge&logo=discord)](https://discord.gg/Pullya#6947)
