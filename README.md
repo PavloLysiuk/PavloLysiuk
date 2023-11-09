@@ -29,10 +29,8 @@
 ![typescript](https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=%23764ABC)
-![Styled components](https://img.shields.io/badge/styled%20components-%2320232a?style=for-the-badge&logo=styledcomponents)
 ![MateriaUI](https://img.shields.io/badge/Material%20UI-%2320232a?style=for-the-badge&logo=mui)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js)
-![Bun](https://img.shields.io/badge/Bun-%2320232a?style=for-the-badge&logo=bun)
 ![ExpressJS](https://img.shields.io/badge/express.js-%2320232a?style=for-the-badge&logo=express)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm)
 ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman)
@@ -43,10 +41,12 @@
 ![Parcel](https://img.shields.io/badge/Parcel-%2320232a?style=for-the-badge&logo=dropbox&logoColor=%23ddae77)
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
-![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%2320232a?style=for-the-badge&logo=bitbucket&logoColor=%230052CC)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
-![WebStorm](https://img.shields.io/badge/WebStorm-%2320232a?style=for-the-badge&logo=webstorm)
+<!-- ![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab) -->
+<!-- ![Bitbucket](https://img.shields.io/badge/bitbucket-%2320232a?style=for-the-badge&logo=bitbucket&logoColor=%230052CC) -->
+<!-- ![WebStorm](https://img.shields.io/badge/WebStorm-%2320232a?style=for-the-badge&logo=webstorm) -->
+<!-- ![Bun](https://img.shields.io/badge/Bun-%2320232a?style=for-the-badge&logo=bun) -->
+<!-- ![Styled components](https://img.shields.io/badge/styled%20components-%2320232a?style=for-the-badge&logo=styledcomponents) -->
 <!-- ![RadixUI](https://img.shields.io/badge/Radix%20UI-%2320232a?style=for-the-badge&logo=radixui&logoColor=%23ffffff) -->
 <!-- ![Netlify](https://img.shields.io/badge/Netlify-%2320232a?style=for-the-badge&logo=netlify) -->
 <!-- ![Trello](https://img.shields.io/badge/Trello-%2320232a?style=for-the-badge&logo=Trello&logoColor=%230272b6) -->
