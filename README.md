@@ -29,7 +29,6 @@
 ![typescript](https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=%23764ABC)
-![MateriaUI](https://img.shields.io/badge/Material%20UI-%2320232a?style=for-the-badge&logo=mui)
 ![NodeJS](https://img.shields.io/badge/Node.js-%2320232a?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/express.js-%2320232a?style=for-the-badge&logo=express)
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm)
@@ -42,6 +41,7 @@
 ![git](https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/github-%2320232a?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%2320232a?style=for-the-badge&logo=visual-studio-code&logoColor=%230078d7)
+<!-- ![MateriaUI](https://img.shields.io/badge/Material%20UI-%2320232a?style=for-the-badge&logo=mui) -->
 <!-- ![Gitlab](https://img.shields.io/badge/gitlab-%2320232a?style=for-the-badge&logo=gitlab) -->
 <!-- ![Bitbucket](https://img.shields.io/badge/bitbucket-%2320232a?style=for-the-badge&logo=bitbucket&logoColor=%230052CC) -->
 <!-- ![WebStorm](https://img.shields.io/badge/WebStorm-%2320232a?style=for-the-badge&logo=webstorm) -->
