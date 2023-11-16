@@ -34,6 +34,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%2320232a?style=for-the-badge&logo=npm)
 ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-%2320232a?style=for-the-badge&logo=mongoose)
 ![FireBase](https://img.shields.io/badge/FireBase-%2320232a?style=for-the-badge&logo=firebase)
 ![Webpack](https://img.shields.io/badge/WebPack-%2320232a?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/Vite-%2320232a?style=for-the-badge&logo=vite)
